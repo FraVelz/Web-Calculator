@@ -24,7 +24,7 @@ Three delete buttons:
 
 ![Image1](./images/Image2.jpg)
 
-<!-- link: [Go to the website.](https://divelz.github.io/Web-Calculator/) -->
+link: [Go to the website.](https://fravelz.github.io/Web-Calculator/)
 
 **Best regard !!!**
 
